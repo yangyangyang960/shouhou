@@ -3,3 +3,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://yangyangyang960.github.io/shouhou/sitemap.xml
